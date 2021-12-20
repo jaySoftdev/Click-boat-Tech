@@ -1,0 +1,1 @@
+Run testMessages.php file to test output.
